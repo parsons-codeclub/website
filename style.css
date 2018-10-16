@@ -5,6 +5,7 @@ html, body {
 body {
   font-family: "Source Code Pro", monospace;
   background: url(./bg-pattern.png);
+  background-attachment: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
