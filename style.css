@@ -7,7 +7,7 @@ body {
 }
 
 h1, a {
-  color: #F9DB31;
+  color: #FAA619;
   font-weight: 400;
 }
 
@@ -24,4 +24,9 @@ nav li {
 .wrapper {
   max-width: 800px;
   margin: 50px auto;
+}
+
+.logo {
+  width: 15rem;
+  margin-bottom: 10px;
 }
