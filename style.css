@@ -22,6 +22,10 @@ nav li {
   display: inline-block;
 }
 
+ul {
+  list-style-position: outside;
+}
+
 .wrapper {
   max-width: 800px;
   margin: 50px auto;
