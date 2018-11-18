@@ -6,8 +6,9 @@ body {
   padding: 20px 0;
 }
 
-h1, a {
-  color: #FAA619;
+h1,
+a {
+  color: #faa619;
   font-weight: 400;
 }
 

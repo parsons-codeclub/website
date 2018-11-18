@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "The codeclub website!",
+  "main": "index.js",
+  "scripts": {
+    "fix": "prettier --write \"*.{html,css,js}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsons-codeclub/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parsons-codeclub/website/issues"
+  },
+  "homepage": "https://github.com/parsons-codeclub/website#readme",
+  "devDependencies": {
+    "prettier": "^1.15.2"
+  }
+}
